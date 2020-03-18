@@ -1,0 +1,1 @@
+<?php $link = mysqli_connect("localhost", "globaxaa_shipuser", "af?&6],Gh$)F", "globaxaa_ship1"); ?>
